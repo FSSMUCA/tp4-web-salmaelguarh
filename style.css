@@ -1,0 +1,33 @@
+/* Couleur générale + police */
+body {
+  background-color: #fff5f7;
+  font-family: "Poppins", sans-serif;
+}
+
+/* Navbar rose */
+.navbar {
+  background-color: #e91e63 !important;
+}
+
+/* Titres */
+.title {
+  color: #d81b60;
+  font-weight: bold;
+}
+
+/* Boutons arrondis */
+.btn-round {
+  border-radius: 30px;
+}
+
+/* Prix */
+.price {
+  color: #2e7d32;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+/* Footer */
+.footer {
+  background-color: #880e4f !important;
+}
